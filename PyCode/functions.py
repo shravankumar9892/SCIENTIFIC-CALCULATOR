@@ -1,7 +1,6 @@
-#######SCIENTIFIC CALCULATORS########
 import numpy as np         
-from math import *                            #used numpy for sin and cos
-####defining functions over here###
+from math import *                         
+
 def squares(x):
     return x*x
 def sum_cubes(x):

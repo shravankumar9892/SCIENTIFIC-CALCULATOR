@@ -1,8 +1,0 @@
-Hello users, this a help manual for the PyCal :)
-
-I hope it's proving to be useful for you, in case of any concerns or copyrights issue you can contact me through:
-    >>> shravankumarshetty9892@gmail.com
-    >>> @shravan9892 (Twitter)
-    >>> shravankumar_shetty (dm me on Instagram)
-
-@@@@@@@@@@ ___ Not yet completed ___ @@@@@@@@@@@@@
